@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+
+#Contact{
+    margin-top: 3%;
+    margin-left: 40%;
+    color: #070b01;
+   
+}
+.question{
+    font-size: larger;
+    margin-left: 30%;
+    margin-top: 4%;
+    color: #54643c;
+}
+.Info{
+    display: flex;
+    margin: 5%;
+    gap: 12%;
+    font-size: larger;
+    background-color: #274001;
+    padding: 5%;
+    color: white;
+
+}
