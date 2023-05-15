@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    /* background-color: rgba(10, 1, 1, 0.7); */
+    background-color:#274001;
+    font-weight: bold;
+    color: whitesmoke;
+    text-decoration: none;
+ }
+ ul li {
+     display: inline-block;
+     margin-left: 40px;
+     /* text-decoration: none; */
+ }
+ a {
+    text-decoration: none;
+    /* text-shadow: chartreuse;
+     */
+     color:whitesmoke;
+     font-size: 20px;
+    text-align: left;
+    padding-left: 20px;
+    font-weight: bold;
+ }
+ #home{
+    font-weight: bold;
+    color: #CF6521;
+ }
+ #homepage {
+    /* border: 7px solid red; */
+    background-image: url("https://res.cloudinary.com/djz4lxe3f/image/upload/v1684095125/Hotel-booking/homepage-removebg_endsje.png");
+    background-repeat: no-repeat;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+} 
+ 
+#paragraph{
+    color: #CF6521;
+    font-size: 1.3rem;
+    text-align: center;
+}
+#textone{
+    font-size: 40px;
+}
+#texttwo{
+    font-size: 30px;
+    text-align: center;
+}
+#servetext{
+    color:#004D00;
+}
+#information{
+    /* border: 2px solid red; */
+    margin-top: 60px;
+    margin-left: 40%;
+    /* text-align: left; */
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+   
+}
+/* #information:nth-child(#textstore){
+    padding-left: 10%;
+} */
+#textstore{
+    /* border: 2px solid blue; */
+    margin-top:30px ;
+    font-size: 1.1rem;
+    padding: 30px;
+    /* padding-left: 20%; */
+
+}
+.btn2section {
+    border: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    margin: auto;
+color: whitesmoke;
+background-color: #CF6521;
+padding: 15px 40px;
+text-align: center;
+align-self: center;
+font-weight: bold;
+}
