@@ -1,0 +1,67 @@
+ 
+
+ 
+ .col{
+    color: #8C034E;
+    
+}
+.contentabout{
+    text-align: center;
+}
+.mama{
+    
+    height:95%;
+    width: 95%;
+
+}
+.mama1{
+    /* height:95%; */
+    width:85%;
+    margin-left: 20%;
+
+}
+.page2{
+    display: flex;
+    gap: 10%;
+    background-color:white;
+}
+/* .content2{
+    font-family: 'Quicksand', sans-serif;
+} */
+.coll{
+    color: #8C034E;
+}
+.statenment{
+    text-align: center;
+}
+.page3{
+    display: flex;
+    gap: 10%;
+}
+.vision{
+    color: #8C034E;
+   
+}
+.viss{
+    text-align: center;
+}
+
+.page4{
+    display: flex;
+    gap: 20%;
+}
+.vissio{
+    display: flex;
+    gap: 5%;
+}
+.paragrap{
+    margin-top: 12%;
+    padding-left: 5%;
+}
+ .miss{
+    margin-top: 12%;
+     padding-left: 5%;  
+}
+.content2{
+    padding-left: 5%;
+}
